@@ -1,0 +1,6 @@
+ckpts
+ckpts/*
+tblog/*
+*.pyc
+*.idea
+
