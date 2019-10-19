@@ -24,5 +24,5 @@ from ocgan import OCGAN
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/nuclearboy95/Deep-SVDD-Tensorflow.git
+git clone https://github.com/nuclearboy95/Anomaly-Detection-OCGAN-tensorflow.git
 ```
