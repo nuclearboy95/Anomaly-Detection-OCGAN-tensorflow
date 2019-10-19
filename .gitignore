@@ -3,4 +3,10 @@ ckpts/*
 tblog/*
 *.pyc
 *.idea
-
+ocgan.egg-info/*
+dist/*
+build/*
+.eggs/*
+dist
+build
+eggs

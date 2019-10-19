@@ -1,7 +1,7 @@
 import tensorflow as tf
-from src.utils import attrdict
-from src.ocgan import OCGAN
-from src.dataset import get_mnist
+from ocgan.utils import attrdict
+from ocgan import OCGAN
+from ocgan.dataset import get_mnist
 
 
 def train(use_informative_mining=True, cls=1):
